@@ -1,0 +1,10 @@
+C:\Users\Drewm\source\repos\M1HW1_Tadlock_Resubmit\M1HW1_Tadlock_Resubmit\bin\Debug\M1HW1_Tadlock_Resubmit.exe.config
+C:\Users\Drewm\source\repos\M1HW1_Tadlock_Resubmit\M1HW1_Tadlock_Resubmit\bin\Debug\M1HW1_Tadlock_Resubmit.exe
+C:\Users\Drewm\source\repos\M1HW1_Tadlock_Resubmit\M1HW1_Tadlock_Resubmit\bin\Debug\M1HW1_Tadlock_Resubmit.pdb
+C:\Users\Drewm\source\repos\M1HW1_Tadlock_Resubmit\M1HW1_Tadlock_Resubmit\obj\Debug\M1HW1_Tadlock_Resubmit.csproj.AssemblyReference.cache
+C:\Users\Drewm\source\repos\M1HW1_Tadlock_Resubmit\M1HW1_Tadlock_Resubmit\obj\Debug\M1HW1_Tadlock_Resubmit.Form1.resources
+C:\Users\Drewm\source\repos\M1HW1_Tadlock_Resubmit\M1HW1_Tadlock_Resubmit\obj\Debug\M1HW1_Tadlock_Resubmit.Properties.Resources.resources
+C:\Users\Drewm\source\repos\M1HW1_Tadlock_Resubmit\M1HW1_Tadlock_Resubmit\obj\Debug\M1HW1_Tadlock_Resubmit.csproj.GenerateResource.cache
+C:\Users\Drewm\source\repos\M1HW1_Tadlock_Resubmit\M1HW1_Tadlock_Resubmit\obj\Debug\M1HW1_Tadlock_Resubmit.csproj.CoreCompileInputs.cache
+C:\Users\Drewm\source\repos\M1HW1_Tadlock_Resubmit\M1HW1_Tadlock_Resubmit\obj\Debug\M1HW1_Tadlock_Resubmit.exe
+C:\Users\Drewm\source\repos\M1HW1_Tadlock_Resubmit\M1HW1_Tadlock_Resubmit\obj\Debug\M1HW1_Tadlock_Resubmit.pdb

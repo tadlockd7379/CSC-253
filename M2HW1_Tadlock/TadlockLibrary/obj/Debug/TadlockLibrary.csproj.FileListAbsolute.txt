@@ -1,0 +1,6 @@
+C:\Users\Drewm\Downloads\M2HW1_Tadlock\TadlockLibrary\bin\Debug\TadlockLibrary.dll
+C:\Users\Drewm\Downloads\M2HW1_Tadlock\TadlockLibrary\bin\Debug\TadlockLibrary.pdb
+C:\Users\Drewm\Downloads\M2HW1_Tadlock\TadlockLibrary\obj\Debug\TadlockLibrary.csproj.AssemblyReference.cache
+C:\Users\Drewm\Downloads\M2HW1_Tadlock\TadlockLibrary\obj\Debug\TadlockLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Drewm\Downloads\M2HW1_Tadlock\TadlockLibrary\obj\Debug\TadlockLibrary.dll
+C:\Users\Drewm\Downloads\M2HW1_Tadlock\TadlockLibrary\obj\Debug\TadlockLibrary.pdb

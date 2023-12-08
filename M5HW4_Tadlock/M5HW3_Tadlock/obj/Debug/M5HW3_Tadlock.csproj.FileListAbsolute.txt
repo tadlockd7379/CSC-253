@@ -1,0 +1,12 @@
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\bin\Debug\ProductDB.mdf
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\bin\Debug\ProductDB_log.ldf
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\bin\Debug\M5HW3_Tadlock.exe.config
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\bin\Debug\M5HW3_Tadlock.exe
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\bin\Debug\M5HW3_Tadlock.pdb
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\obj\Debug\M5HW3_Tadlock.csproj.AssemblyReference.cache
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\obj\Debug\M5HW3_Tadlock.Form1.resources
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\obj\Debug\M5HW3_Tadlock.Properties.Resources.resources
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\obj\Debug\M5HW3_Tadlock.csproj.GenerateResource.cache
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\obj\Debug\M5HW3_Tadlock.csproj.CoreCompileInputs.cache
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\obj\Debug\M5HW3_Tadlock.exe
+C:\Users\Drewm\source\repos\M5HW3_Tadlock\obj\Debug\M5HW3_Tadlock.pdb

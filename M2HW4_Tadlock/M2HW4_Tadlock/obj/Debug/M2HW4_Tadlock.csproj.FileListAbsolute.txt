@@ -1,0 +1,13 @@
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\bin\Debug\M2HW4_Tadlock.exe.config
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\bin\Debug\M2HW4_Tadlock.exe
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\bin\Debug\M2HW4_Tadlock.pdb
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\bin\Debug\TadlockLibrary.dll
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\bin\Debug\TadlockLibrary.pdb
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\obj\Debug\M2HW4_Tadlock.csproj.AssemblyReference.cache
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\obj\Debug\M2HW4_Tadlock.Form1.resources
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\obj\Debug\M2HW4_Tadlock.Properties.Resources.resources
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\obj\Debug\M2HW4_Tadlock.csproj.GenerateResource.cache
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\obj\Debug\M2HW4_Tadlock.csproj.CoreCompileInputs.cache
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\obj\Debug\M2HW4_Tadlock.csproj.CopyComplete
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\obj\Debug\M2HW4_Tadlock.exe
+C:\Users\Drewm\source\repos\M2HW4_Tadlock\M2HW4_Tadlock\obj\Debug\M2HW4_Tadlock.pdb

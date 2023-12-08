@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2HW4_Tadlock", "M2HW4_Tadlock\M2HW4_Tadlock.csproj", "{C5B963B1-D5F3-4E4C-A60C-AA2E26F8AD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TadlockLibrary", "TadlockLibrary\TadlockLibrary.csproj", "{27821356-7F6D-45CC-822D-CFA570AC4FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B963B1-D5F3-4E4C-A60C-AA2E26F8AD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B963B1-D5F3-4E4C-A60C-AA2E26F8AD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B963B1-D5F3-4E4C-A60C-AA2E26F8AD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B963B1-D5F3-4E4C-A60C-AA2E26F8AD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27821356-7F6D-45CC-822D-CFA570AC4FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27821356-7F6D-45CC-822D-CFA570AC4FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27821356-7F6D-45CC-822D-CFA570AC4FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27821356-7F6D-45CC-822D-CFA570AC4FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2198DEF0-3636-45E4-9E71-EC4CBA2CEAB6}
+	EndGlobalSection
+EndGlobal
